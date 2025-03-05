@@ -4,21 +4,21 @@
 Welcome to my **Fall 2024** coursework repository! This repository contains notes, assignments, and projects for the courses I am currently taking at **The University of Texas at San Antonio (UTSA)** as part of my **Master’s in Computer Science (Cybersecurity focus).**  
 
 ## 📌 Courses  
-1. **Course 1: [Course Name]**  
+1. **Course 1: [Intro to Cybersecurity]**  
    - Description of the course.  
    - Topics covered:  
      - 🔹 Topic 1  
      - 🔹 Topic 2  
      - 🔹 Topic 3  
 
-2. **Course 2: [Course Name]**  
+2. **Course 2: [Data Science]**  
    - Description of the course.  
    - Topics covered:  
      - 🔹 Topic 1  
      - 🔹 Topic 2  
      - 🔹 Topic 3  
 
-3. **Course 3: [Course Name]**  
+3. **Course 3: [Cloud Computing]**  
    - Description of the course.  
    - Topics covered:  
      - 🔹 Topic 1  
