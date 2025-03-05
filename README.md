@@ -12,7 +12,12 @@ Welcome to my **Fall 2024** coursework repository! This repository contains note
      - 🔹 Topic 3  
 
 2. **Course 2: [Data Science]**  
-   - Description of the course.  
+   - ## 🎤 Presentation
+   -    ### 📌 **A Machine Learning Framework to Identify Students at Risk of Adverse Academic Outcomes**
+   -       **Description:** Developed a framework leveraging machine learning to predict students at risk of poor academic performance.  
+   -       **Focus:** Identified key indicators, explored feature selection techniques, and built predictive models to assist in academic interventions.  
+
+
    - Topics covered:  
      - 🔹 Topic 1  
      - 🔹 Topic 2  
